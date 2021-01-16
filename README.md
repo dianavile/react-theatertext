@@ -1,7 +1,7 @@
 # react-theatertext
 ## Demo
 ![react-theatertext](https://github.com/dianavile/react-theatertext/blob/develop/src/img/Demo-react-theatertext.JPG)
-[CodeSandbox]()
+[CodeSandbox](https://codesandbox.io/s/morning-bush-wxvyb)
 ## Resources
 [React Hightlighter](https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a)
 [ReactHighlightSelection-CodeSandBox](https://codesandbox.io/s/y0vw15o39j?file=/src/index.js:76-105)
