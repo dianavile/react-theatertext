@@ -1,6 +1,6 @@
 # react-theatertext
 ## Demo
-![react-theatertext]('./src/img/Demo-react-theatertext.JPG')
+![react-theatertext](https://github.com/dianavile/react-theatertext/blob/develop/src/img/Demo-react-theatertext.JPG)
 [CodeSandbox]()
 ## Resources
 [React Hightlighter](https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a)

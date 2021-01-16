@@ -1,3 +1,4 @@
+import React from 'react';
 import Line from './Line';
 import data from './data';
 import Button from './Button';
