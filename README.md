@@ -1,4 +1,11 @@
 # react-theatertext
+## Demo
+![react-theatertext]('./src/img/Demo-react-theatertext.JPG')
+[CodeSandbox]()
+## Resources
+[React Hightlighter](https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a)
+[ReactHighlightSelection-CodeSandBox](https://codesandbox.io/s/y0vw15o39j?file=/src/index.js:76-105)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
