@@ -1,3 +1,23 @@
+# react-theatertext
+Create a Theatertext with React, Styled Components
+## Demo
+on [CodeSandbox](https://codesandbox.io/s/morning-bush-wxvyb)
+![react-theatertext](https://github.com/dianavile/react-theatertext/blob/develop/src/img/Demo-react-theatertext.JPG)
+
+# Installation
+- [X] Install with ```npx create-react-app react-theatertext```
+
+## Dependencies 
+- [X] Add ```yarn add styled-components```
+
+## Functionalities 
+- [] Click on Prev and Next button to highlight theatertext
+- [] Styled with styled Components
+
+## Resources
+[React Hightlighter](https://medium.com/unprogrammer/a-simple-text-highlighting-component-with-react-e9f7a3c1791a)
+[ReactHighlightSelection-CodeSandBox](https://codesandbox.io/s/y0vw15o39j?file=/src/index.js:76-105)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
