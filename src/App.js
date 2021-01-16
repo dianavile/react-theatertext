@@ -1,10 +1,15 @@
-import Line from './Line';
-import data from './data';
+// import Line from './Line';
+// import data from './data';
+import Button from './Button';
 
-export default () => {
-  const lines = data.map(item => <Line key={item.id} text={item.text} />)
+function App() {
+  // const lines = data.map(item => <Line key={item.id} text={item.text} />)
   return (
-    <div> {lines} </div>
+    <div>
+    <Button> {'lines'} </Button>
+      {/* {lines} */}
+    </div>
   );
 };
 
+export default App;
